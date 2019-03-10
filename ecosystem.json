@@ -15,7 +15,7 @@
     "production": {
       "user": "root",
       "host": ["39.97.160.58"],
-      "port": "9000",
+      "port": "22",
       "ref": "origin/master",
       "repo": "git@github.com:rsjszgyz/vue-music.git",
       "path": "/root/vue",
